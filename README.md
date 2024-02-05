@@ -1,2 +1,3 @@
 # BlackJack
-The C code provided is a concise implementation of a text-based Blackjack game. Players start with two cards and decide whether to "hit" or "stand," while the dealer follows a basic strategy, ultimately determining the winner based on hand values in this console-based rendition.
+
+The provided C code is a simple implementation of a text-based Blackjack game. The game begins with the player receiving two initial cards, displayed in the console. The player is then prompted to choose whether to "hit" (take another card) or "stand" (keep the current hand). The dealer follows a basic strategy, hitting until their hand reaches a total of at least 17. The game concludes by determining the winner based on the hand values, with special consideration for the Ace's flexible value. This console-based Blackjack game serves as a foundation that can be further enhanced with additional features or a graphical user interface for a more engaging player experience.
